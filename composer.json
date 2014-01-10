@@ -1,0 +1,25 @@
+{
+    "name": "hafosft/jquery-mobile-bundle",
+    "description": "jQuery Mobile Bundle for Symfony",
+    "keywords": ["jquery","mobile","bundle"],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abi Hafshin",
+            "email": "abiehafshin@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/framework-bundle": "~2.2"
+    },
+    "autoload": {
+        "psr-0": { "Jquery\\MobileBundle": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "master": "1.4.0"
+        }
+    },
+}
+
