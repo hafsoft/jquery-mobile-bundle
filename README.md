@@ -1,4 +1,4 @@
-jquery-mobile-bundle
+jQuery Mobile Bundle for Symfony2
 ====================
 
 jQuery Mobile Bundle for Symfony2

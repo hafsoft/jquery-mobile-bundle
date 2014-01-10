@@ -1,5 +1,5 @@
 {
-    "name": "hafosft/jquery-mobile-bundle",
+    "name": "hafsoft/jquery-mobile-bundle",
     "description": "jQuery Mobile Bundle for Symfony",
     "keywords": ["jquery","mobile","bundle"],
     "type": "symfony-bundle",
@@ -15,11 +15,6 @@
     },
     "autoload": {
         "psr-0": { "Jquery\\MobileBundle": "" }
-    },
-    "extra": {
-        "branch-alias": {
-            "master": "1.4.0"
-        }
-    },
+    }
 }
 
